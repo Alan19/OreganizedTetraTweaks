@@ -1,0 +1,103 @@
+[
+  {
+    "predicate": {
+      "type": "minecraft:tag",
+      "tag": "forge:tools/swords/electrum_plated_diamond"
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": [
+        "sword/basic_blade",
+        "basic_blade/electrum_plated_diamond"
+      ],
+      "sword/hilt": [
+        "sword/basic_hilt",
+        "basic_hilt/stick"
+      ],
+      "sword/pommel": [
+        "sword/decorative_pommel",
+        "decorative_pommel/electrum_plated_diamond"
+      ],
+      "sword/guard": [
+        "sword/makeshift_guard",
+        "makeshift_guard/electrum_plated_diamond"
+      ]
+    }
+  },
+  {
+    "predicate": {
+      "tag": "forge:tools/shovels/electrum_plated_diamond"
+    },
+    "item": "tetra:modular_single",
+    "modules": {
+      "single/head": [
+        "single/basic_shovel",
+        "basic_shovel/electrum_plated_diamond"
+      ],
+      "single/handle": [
+        "single/basic_handle",
+        "basic_handle/stick"
+      ]
+    }
+  },
+  {
+    "predicate": {
+      "tag": "forge:tools/pickaxes/electrum_plated_diamond"
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/basic_pickaxe_left",
+        "basic_pickaxe/electrum_plated_diamond"
+      ],
+      "double/head_right": [
+        "double/basic_pickaxe_right",
+        "basic_pickaxe/electrum_plated_diamond"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/stick"
+      ]
+    }
+  },
+  {
+    "predicate": {
+      "tag": "forge:tools/hoes/electrum_plated_diamond"
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/hoe_left",
+        "hoe/electrum_plated_diamond"
+      ],
+      "double/head_right": [
+        "double/butt_right",
+        "butt/electrum_plated_diamond"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/stick"
+      ]
+    }
+  },
+  {
+    "predicate": {
+      "tag": "forge:tools/axes/electrum_plated_diamond"
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/basic_axe_left",
+        "basic_axe/electrum_plated_diamond"
+      ],
+      "double/head_right": [
+        "double/butt_right",
+        "butt/electrum_plated_diamond"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/stick"
+      ]
+    }
+  }
+]

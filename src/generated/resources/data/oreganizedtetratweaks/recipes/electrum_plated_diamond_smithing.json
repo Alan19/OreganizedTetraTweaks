@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "tag": "forge:ingots/electrum"
+  },
+  "base": {
+    "tag": "forge:gems/diamond"
+  },
+  "result": {
+    "item": "oreganizedtetratweaks:electrum_plated_diamond"
+  }
+}

@@ -1,0 +1,14 @@
+// 1.19.2	2023-09-12T17:19:33.5295824	Tags for minecraft:item
+f7b029662c68a32cb4e34563d94e52090df872a5 data/forge/tags/items/gems/electrum_plated_diamond.json
+9115563bba2db6e89c2c107626da06ea199aa2c7 data/forge/tags/items/ingots/electrum.json
+ce19f4d53dc1fa60d695a13773dc7204001f95d3 data/forge/tags/items/tools/axes.json
+ddc75b2f884f2deef1eb71418b0fc4ff6784c5f1 data/forge/tags/items/tools/axes/electrum_plated_diamond.json
+78e837e41ef19764eda29732e4866d705d4ae349 data/forge/tags/items/tools/electrum_plated_diamond.json
+d57053fc29b7bbc59d06ff140341fbb28b6946fd data/forge/tags/items/tools/hoes.json
+eef83cdf136be620185d326ac306dc8b3680b0ce data/forge/tags/items/tools/hoes/electrum_plated_diamond.json
+ad859bebb7a9baa3e099c1528530050a0cfd7e19 data/forge/tags/items/tools/pickaxes.json
+b20c1b1653f973a0f1474db47ae9c0e1f8515c42 data/forge/tags/items/tools/pickaxes/electrum_plated_diamond.json
+5a0fb7314a3ee5780f4052da75b780829f89f8a1 data/forge/tags/items/tools/shovels.json
+c52b4dbffb6c07a4fbc75a2ce481671384feb984 data/forge/tags/items/tools/shovels/electrum_plated_diamond.json
+a633eb3cd8af84658b3581c399458ecdcb9b55ec data/forge/tags/items/tools/swords.json
+959791060c5661f7f86dedec67300177b0735bec data/forge/tags/items/tools/swords/electrum_plated_diamond.json
