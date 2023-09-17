@@ -1,7 +1,6 @@
 [
   {
     "predicate": {
-      "type": "minecraft:tag",
       "tag": "forge:tools/swords/electrum_plated_diamond"
     },
     "item": "tetra:modular_sword",
