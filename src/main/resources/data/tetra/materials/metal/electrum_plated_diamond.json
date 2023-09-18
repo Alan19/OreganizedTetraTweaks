@@ -11,7 +11,7 @@
   "toolLevel": "minecraft:netherite",
   "toolEfficiency": 11.0,
   "attributes": {
-    "generic.attack_speed": 0.2
+    "generic.attack_speed": 0.1
   },
   "tints": {
     "glyph": "electrum_glyph",

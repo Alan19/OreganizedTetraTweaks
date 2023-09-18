@@ -16,5 +16,7 @@ public class GatherData {
         generator.addProvider(true, new OTTRecipes(generator));
         OTTBlockTags blockTags = new OTTBlockTags(generator, existingFileHelper);
         generator.addProvider(true, new OTTItemTags(generator, blockTags, existingFileHelper));
+        generator.addProvider(true, new ItemModels(generator, existingFileHelper));
+        generator.addProvider(true, new EnglishLocalization(generator));
     }
 }
