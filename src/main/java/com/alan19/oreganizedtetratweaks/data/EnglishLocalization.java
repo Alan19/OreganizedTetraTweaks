@@ -15,5 +15,6 @@ public class EnglishLocalization extends LanguageProvider {
         add(OTItems.ELECTRUM_PLATED_DIAMOND.get(), "Electrum Plated Diamond");
         add("tetra.material.electrum_plated_diamond", "Electrum plated diamond");
         add("tetra.material.electrum_plated_diamond.prefix", "Electrum plated diamond");
+        add("tetra.improvement.hasted.name", "Hasted");
     }
 }

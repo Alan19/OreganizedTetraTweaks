@@ -15,7 +15,7 @@
       ],
       "sword/pommel": [
         "sword/decorative_pommel",
-        "decorative_pommel/electrum"
+        "decorative_pommel/electrum_plated_diamond"
       ],
       "sword/guard": [
         "sword/makeshift_guard",
@@ -23,7 +23,8 @@
       ]
     },
     "improvements": {
-      "sword/blade:arrested": 0
+      "sword/blade:arrested": 0,
+      "sword/blade:hasted": 0
     }
   },
   {
@@ -42,7 +43,8 @@
       ]
     },
     "improvements": {
-      "single/head:arrested": 0
+      "single/head:arrested": 0,
+      "single/head:hasted": 0
     }
   },
   {
@@ -66,7 +68,9 @@
     },
     "improvements": {
       "double/head_left:arrested": 0,
-      "double/head_right:arrested": 0
+      "double/head_right:arrested": 0,
+      "double/head_left:hasted": 0,
+      "double/head_right:hasted": 0
     }
   },
   {
@@ -90,7 +94,9 @@
     },
     "improvements": {
       "double/head_left:arrested": 0,
-      "double/head_right:arrested": 0
+      "double/head_right:arrested": 0,
+      "double/head_left:hasted": 0,
+      "double/head_right:hasted": 0
     }
   },
   {
@@ -114,7 +120,9 @@
     },
     "improvements": {
       "double/head_left:arrested": 0,
-      "double/head_right:arrested": 0
+      "double/head_right:arrested": 0,
+      "double/head_left:hasted": 0,
+      "double/head_right:hasted": 0
     }
   }
 ]

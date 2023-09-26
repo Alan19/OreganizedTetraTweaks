@@ -2,20 +2,17 @@
   "key": "electrum_plated_diamond",
   "category": "gem",
   "primary": 6,
-  "secondary": 2.9,
-  "tertiary": 0,
+  "secondary": 3.75,
+  "tertiary": 0.5,
   "durability": 1411,
   "integrityCost": 2,
   "integrityGain": 8,
   "magicCapacity": 108,
   "toolLevel": "minecraft:netherite",
   "toolEfficiency": 11.0,
-  "attributes": {
-    "generic.attack_speed": 0.1
-  },
   "tints": {
-    "glyph": "electrum_glyph",
-    "texture": "electrum"
+    "glyph": "d7cea7",
+    "texture": "d7cea7"
   },
   "textures": [
     "shiny",
@@ -27,5 +24,9 @@
   },
   "requiredTools": {
     "hammer_dig": "minecraft:iron"
+  },
+  "improvements": {
+    "hasted": 0,
+    "arrested": 0
   }
 }
